@@ -1,4 +1,4 @@
-# Public chat pplication build using React
+# Public chat application build using React
 ### Live-site: https://chat-app-3a1ab.web.app/
 
 # Screenshots
