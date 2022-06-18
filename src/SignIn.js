@@ -33,7 +33,7 @@ function SignIn() {
     
     <><center>Check out the Github Repository at <b>https://github.com/ryan10projects/MessageMe</b></center>
     <center><button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button></center>
-    
+    <center>The chat is public, please behave!</b></center>
     </>
   )
 }
