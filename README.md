@@ -1,7 +1,8 @@
 # Public chat pplication build using React
-live-site: https://chat-app-3a1ab.web.app/
+### Live-site: https://chat-app-3a1ab.web.app/
 
-#Screenshots
+# Screenshots
+https://github.com/ryan10projects/MessageMe-Public-Chat-App/tree/main/Screenshots
 
 
 
