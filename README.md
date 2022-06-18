@@ -2,9 +2,10 @@
 ### Live-site: https://chat-app-3a1ab.web.app/
 
 # Screenshots
-https://github.com/ryan10projects/MessageMe-Public-Chat-App/tree/main/Screenshots
-https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/sign-in-page.PNG
-
+### Chat screen
+<img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/chat-screenshot.PNG" width="600" title="Home Page">
+### Google Authentication
+<img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/sign-in-page.PNG" width="600" title="Home Page">
 
 
 # Getting Started with Create React App
