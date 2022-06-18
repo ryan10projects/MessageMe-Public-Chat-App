@@ -5,7 +5,7 @@
 ### Chat screen
 <img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/chat-screenshot.PNG" width="100" title="Home Page">
 ### Google Authentication
-<img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/sign-in-page.PNG" width="10" title="Home Page">
+<img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/sign-in-page.PNG" width="100" title="Home Page">
 
 
 # Getting Started with Create React App
