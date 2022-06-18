@@ -8,7 +8,7 @@
 ### Google Authentication
 <img src="https://github.com/ryan10projects/MessageMe-Public-Chat-App/blob/main/Screenshots/sign-in-page.PNG" width="100" title="Home Page">
 
-# Remember to update the Config.js under src/ before running.
+### Remember to update the Config.js under src/ before running.
 
 # Getting Started with Create React App
 
