@@ -55,7 +55,7 @@ const dummy = useRef();
 
         
          <form onSubmit={sendMessage}>
-         <input value={formValue} onChange={(e) => setFormValues(e.target.value)} placeholder="say something nice"/>
+         <input value={formValue} onChange={(e) => setFormValues(e.target.value)} placeholder="Remember to behave well!"/>
          <button type="submit">Send</button>
          </form>
          </>
