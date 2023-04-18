@@ -2,7 +2,7 @@
 # Public chat application build using React
 ### Live-site: https://chat-app-3a1ab.web.app/
 
-### Still in development 
+### Still in development.
 
 # Screenshots
 ### Chat screen
